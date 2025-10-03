@@ -1,0 +1,1442 @@
+[
+  {
+    "quote": "Je pense, donc je suis.",
+    "author": "René Descartes"
+  },
+  {
+    "quote": "La vie est ce qui arrive quand vous êtes occupé à faire d'autres projets.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "Être ou ne pas être, telle est la question.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "L'imagination est plus importante que le savoir.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Soyez vous-même, tous les autres sont déjà pris.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Deux choses sont infinies : l'univers et la bêtise humaine. Mais en ce qui concerne l'univers, je n'en ai pas encore acquis la certitude absolue.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "La seule chose que nous avons à craindre est la crainte elle-même.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "quote": "Le succès c'est d'aller d'échec en échec sans perdre son enthousiasme.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "La vie est un mystère qu'il faut vivre, et non un problème à résoudre.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "Tout ce que vous avez toujours voulu se trouve de l'autre côté de la peur.",
+    "author": "George Addair"
+  },
+  {
+    "quote": "Crois en toi-même et tout devient possible.",
+    "author": "Anonyme"
+  },
+  {
+    "quote": "La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "Le bonheur n'est pas quelque chose de prêt à l'emploi. Il vient de vos propres actions.",
+    "author": "Dalaï Lama"
+  },
+  {
+    "quote": "L'éducation est l'arme la plus puissante qu'on puisse utiliser pour changer le monde.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Je ne perds jamais. Soit je gagne, soit j'apprends.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "La liberté commence où l'ignorance finit.",
+    "author": "Victor Hugo"
+  },
+  {
+    "quote": "Aimer, ce n'est pas se regarder l'un l'autre, c'est regarder ensemble dans la même direction.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Le courage n'est pas l'absence de peur, mais la capacité de la vaincre.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "La meilleure façon de prédire l'avenir est de le créer.",
+    "author": "Peter Drucker"
+  },
+  {
+    "quote": "Il n'y a qu'un bonheur dans la vie, c'est d'aimer et d'être aimé.",
+    "author": "George Sand"
+  },
+  {
+    "quote": "Le temps est un grand maître, dit-on. Le malheur est qu'il tue ses élèves.",
+    "author": "Hector Berlioz"
+  },
+  {
+    "quote": "La vie est trop courte pour être petite.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "quote": "Choisis un travail que tu aimes, et tu n'auras pas à travailler un seul jour de ta vie.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Ce qui ne me tue pas me rend plus fort.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "L'expérience est une lanterne que l'on porte sur le dos et qui n'éclaire que le chemin parcouru.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Il faut toujours viser la lune, car même en cas d'échec, on atterrit dans les étoiles.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "La connaissance s'acquiert par l'expérience, tout le reste n'est que de l'information.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Tout le monde est un génie. Mais si vous jugez un poisson sur sa capacité à grimper à un arbre, il passera sa vie à croire qu'il est stupide.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Le seul véritable voyage, ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "La vie est faite de petits bonheurs.",
+    "author": "Anonyme"
+  },
+  {
+    "quote": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Le doute est le commencement de la sagesse.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "Connais-toi toi-même.",
+    "author": "Socrate"
+  },
+  {
+    "quote": "Tout ce que je sais, c'est que je ne sais rien.",
+    "author": "Socrate"
+  },
+  {
+    "quote": "Il n'y a qu'une façon d'échouer, c'est d'abandonner avant d'avoir réussi.",
+    "author": "Olivier Lockert"
+  },
+  {
+    "quote": "La créativité, c'est l'intelligence qui s'amuse.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "L'avenir appartient à ceux qui croient en la beauté de leurs rêves.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Le succès n'est pas final, l'échec n'est pas fatal : c'est le courage de continuer qui compte.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "La simplicité est la sophistication suprême.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "quote": "Votre temps est limité, ne le gâchez pas en menant une existence qui n'est pas la vôtre.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Restez affamé, restez fou.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "L'innovation distingue un leader d'un suiveur.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Sois le changement que tu veux voir dans le monde.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "La patience est amère, mais ses fruits sont doux.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "quote": "Le génie, c'est 1% d'inspiration et 99% de transpiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Il n'y a pas de hasard, il n'y a que des rendez-vous.",
+    "author": "Paul Éluard"
+  },
+  {
+    "quote": "L'enfer, c'est les autres.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "La vie est un sommeil, l'amour en est le rêve.",
+    "author": "Alfred de Musset"
+  },
+  {
+    "quote": "Aimer, c'est tout donner et se donner soi-même.",
+    "author": "Sainte Thérèse de Lisieux"
+  },
+  {
+    "quote": "La musique adoucit les mœurs.",
+    "author": "Proverbe"
+  },
+  {
+    "quote": "Il vaut mieux faire que dire.",
+    "author": "Proverbe"
+  },
+  {
+    "quote": "L'art est le plus beau des mensonges.",
+    "author": "Claude Debussy"
+  },
+  {
+    "quote": "La beauté sauvera le monde.",
+    "author": "Fiodor Dostoïevski"
+  },
+  {
+    "quote": "Carpe diem.",
+    "author": "Horace"
+  },
+  {
+    "quote": "L'homme est né libre, et partout il est dans les fers.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "quote": "Je sais que je ne sais rien, et encore je ne suis pas sûr de le savoir.",
+    "author": "Socrate"
+  },
+  {
+    "quote": "La seule chose que nous devons à notre prochain, c'est notre honnêteté.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Il faut cultiver notre jardin.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Le meilleur est l'ennemi du bien.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "L'esprit humain est ainsi fait qu'il résiste infiniment mieux aux violences qu'aux raisonnements.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Rien n'est permanent, sauf le changement.",
+    "author": "Héraclite"
+  },
+  {
+    "quote": "La vraie générosité envers l'avenir consiste à tout donner au présent.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Il faut imaginer Sisyphe heureux.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "La liberté est le droit de faire ce que les lois permettent.",
+    "author": "Montesquieu"
+  },
+  {
+    "quote": "Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Le silence éternel de ces espaces infinis m'effraie.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "Le cœur a ses raisons que la raison ne connaît point.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "L'homme n'est qu'un roseau, le plus faible de la nature, mais c'est un roseau pensant.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "La vérité, c'est ce qui résiste à l'épreuve de l'expérience.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Un problème sans solution est un problème mal posé.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "La logique vous mènera d'un point A à un point B. L'imagination vous mènera partout.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Les grands esprits ont toujours rencontré une opposition farouche des esprits médiocres.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Il n'existe que deux choses infinies, l'univers et la bêtise humaine... mais pour l'univers, je n'ai pas de certitude absolue.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "La science sans religion est boiteuse, la religion sans science est aveugle.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Celui qui ne peut plus éprouver ni étonnement ni surprise est pour ainsi dire mort.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "L'important est de ne pas cesser de questionner.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Celui qui suit la foule n'ira jamais plus loin que la foule.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "La mesure de l'intelligence est la capacité de changer.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Nous ne pouvons pas résoudre nos problèmes avec la même pensée que nous avons utilisée lorsque nous les avons créés.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Les esprits faibles discutent des personnes. Les esprits moyens discutent des événements. Les esprits supérieurs discutent des idées.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Le bonheur est la seule chose qui se double si on le partage.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "quote": "La vraie sagesse est de ne pas sembler sage.",
+    "author": "Eschyle"
+  },
+  {
+    "quote": "L'homme est condamné à être libre.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "L'existence précède l'essence.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Nous sommes nos choix.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "L'homme est la mesure de toute chose.",
+    "author": "Protagoras"
+  },
+  {
+    "quote": "Que ta nourriture soit ton médicament et ton médicament ta nourriture.",
+    "author": "Hippocrate"
+  },
+  {
+    "quote": "La vie n'est pas d'attendre que l'orage passe, c'est d'apprendre à danser sous la pluie.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "La chance, c'est la rencontre de la préparation et de l'opportunité.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Il n'y a pas de vent favorable pour celui qui ne sait où il va.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Ce n'est pas parce que nous ne voyons pas la solution qu'elle n'existe pas.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "La vie, ce n'est pas d'attendre que les orages passent, c'est d'apprendre comment danser sous la pluie.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Tout est poison et rien n'est sans poison ; seule la dose fait que quelque chose n'est pas un poison.",
+    "author": "Paracelse"
+  },
+  {
+    "quote": "Savoir, c'est pouvoir.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "La nature, pour être commandée, doit être obéie.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "Rien n'est plus dangereux qu'une idée quand on n'a qu'une idée.",
+    "author": "Alain"
+  },
+  {
+    "quote": "Penser, c'est dire non.",
+    "author": "Alain"
+  },
+  {
+    "quote": "Le pessimisme est d'humeur, l'optimisme est de volonté.",
+    "author": "Alain"
+  },
+  {
+    "quote": "L'action est la sœur du rêve.",
+    "author": "Charles Baudelaire"
+  },
+  {
+    "quote": "Il faut être toujours ivre. Tout est là : c'est l'unique question. Pour ne pas sentir l'horrible fardeau du Temps qui brise vos épaules et vous penche vers la terre, il faut vous enivrer sans trêve.",
+    "author": "Charles Baudelaire"
+  },
+  {
+    "quote": "La vraie éloquence se moque de l'éloquence.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "L'homme est visiblement fait pour penser ; c'est toute sa dignité et tout son mérite.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "Toutes les grandes personnes ont d'abord été des enfants, mais peu d'entre elles s'en souviennent.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Fais de ta vie un rêve, et d'un rêve, une réalité.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "On ne peut vraiment voir bien qu'avec les yeux du cœur.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Il est bien plus difficile de se juger soi-même que de juger autrui.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Un but sans plan n'est qu'un souhait.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "Le véritable voyage de découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Le bonheur est bénéfique pour le corps, mais c'est le chagrin qui développe les forces de l'esprit.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Il n'y a pas de réussite facile ni d'échecs définitifs.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Mieux vaut être haï pour ce que l'on est qu'aimé pour ce que l'on n'est pas.",
+    "author": "André Gide"
+  },
+  {
+    "quote": "L'art est la collaboration entre Dieu et l'artiste, et moins l'artiste en fait, mieux c'est.",
+    "author": "André Gide"
+  },
+  {
+    "quote": "Le bonheur, c'est de continuer à désirer ce qu'on possède.",
+    "author": "Saint Augustin"
+  },
+  {
+    "quote": "La mesure de l'amour, c'est d'aimer sans mesure.",
+    "author": "Saint Augustin"
+  },
+  {
+    "quote": "Le monde est un livre et ceux qui ne voyagent pas n'en lisent qu'une page.",
+    "author": "Saint Augustin"
+  },
+  {
+    "quote": "La foi, c'est croire ce que l'on ne voit pas, et la récompense de cette foi, c'est de voir ce que l'on croit.",
+    "author": "Saint Augustin"
+  },
+  {
+    "quote": "Si tu veux être aimé, aime.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Celui qui n'est pas courageux aura toujours une philosophie pour le justifier.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "L'automne est un deuxième printemps où chaque feuille est une fleur.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Au milieu de l'hiver, j'ai découvert en moi un invincible été.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "La révolte est le refus de l'injustice.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Mal nommer les choses, c'est ajouter au malheur du monde.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Un homme, ça s'empêche.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "On reconnaît la grandeur et la valeur d'une nation à la façon dont celle-ci traite ses animaux.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "La non-violence est la plus grande force dont dispose l'humanité.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "La vraie moralité consiste non pas à suivre le sentier battu, mais à trouver sa propre voie et à la suivre courageusement.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "Un lâche est incapable de montrer de l'amour, c'est le privilège des braves.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "La force ne vient pas des capacités physiques mais d'une volonté indomptable.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "L'homme est ce qu'il croit.",
+    "author": "Anton Tchekhov"
+  },
+  {
+    "quote": "Il n'y a qu'un héroïsme au monde : c'est de voir le monde tel qu'il est et de l'aimer.",
+    "author": "Romain Rolland"
+  },
+  {
+    "quote": "La vie est un défi à relever, un bonheur à mériter, une aventure à tenter.",
+    "author": "Mère Teresa"
+  },
+  {
+    "quote": "Si vous jugez les gens, vous n'avez pas le temps de les aimer.",
+    "author": "Mère Teresa"
+  },
+  {
+    "quote": "Hier n'est plus, demain n'est pas encore. Nous n'avons qu'aujourd'hui. Commençons.",
+    "author": "Mère Teresa"
+  },
+  {
+    "quote": "La paix commence par un sourire.",
+    "author": "Mère Teresa"
+  },
+  {
+    "quote": "Ce n'est pas la force, mais la persévérance, qui fait les grandes œuvres.",
+    "author": "Samuel Johnson"
+  },
+  {
+    "quote": "Nos vies commencent à prendre fin le jour où nous devenons silencieux à propos des choses qui comptent.",
+    "author": "Martin Luther King"
+  },
+  {
+    "quote": "L'obscurité ne peut pas chasser l'obscurité, seule la lumière le peut. La haine ne peut pas chasser la haine, seul l'amour le peut.",
+    "author": "Martin Luther King"
+  },
+  {
+    "quote": "J'ai fait un rêve.",
+    "author": "Martin Luther King"
+  },
+  {
+    "quote": "La liberté n'est jamais donnée volontairement par l'oppresseur ; elle doit être exigée par l'opprimé.",
+    "author": "Martin Luther King"
+  },
+  {
+    "quote": "Le but de la vie n'est pas d'être heureux. C'est d'être utile, d'être honorable, d'être compatissant, de faire en sorte que votre vie et vos actes aient fait une différence.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Ne va pas où le chemin peut mener. Va là où il n'y a pas de chemin et laisse une trace.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Écris sur ton cœur que chaque jour est le plus beau jour de l'année.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Ce que nous sommes est le cadeau de Dieu. Ce que nous devenons est notre cadeau à Dieu.",
+    "author": "Eleanor Powell"
+  },
+  {
+    "quote": "Le plus grand plaisir dans la vie est de réaliser ce que les autres vous pensent incapable de réaliser.",
+    "author": "Walter Bagehot"
+  },
+  {
+    "quote": "La vie est comme une caméra. Concentre-toi sur ce qui est important, capture les bons moments, tire les leçons des négatifs et si les choses ne fonctionnent pas, prends un nouveau cliché.",
+    "author": "Anonyme"
+  },
+  {
+    "quote": "Ce que l'on fait avec amour, on le fait bien.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "Je rêve ma peinture et je peins mon rêve.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "Les grandes choses ne sont pas faites par impulsion, mais par une série de petites choses réunies.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "La normalité est une route pavée : on y marche aisément mais les fleurs n'y poussent pas.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "Quand je serai mort, on dira : c'était un peintre.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "Je préfère mourir de passion que d'ennui.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "quote": "Le génie, c'est l'enfance retrouvée à volonté.",
+    "author": "Charles Baudelaire"
+  },
+  {
+    "quote": "La musique est la langue des émotions.",
+    "author": "Emmanuel Kant"
+  },
+  {
+    "quote": "Agis de telle sorte que tu traites l'humanité, aussi bien dans ta personne que dans tout autre, toujours en même temps comme fin, et jamais simplement comme moyen.",
+    "author": "Emmanuel Kant"
+  },
+  {
+    "quote": "Aie le courage de te servir de ton propre entendement.",
+    "author": "Emmanuel Kant"
+  },
+  {
+    "quote": "Nous ne voyons pas les choses comme elles sont, nous les voyons comme nous sommes.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "quote": "La vie rétrécit ou s'élargit en proportion de votre courage.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "quote": "L'art de vivre consiste à apprendre à donner de l'importance à ce qui en a peu, et à donner peu d'importance à ce qui en a beaucoup.",
+    "author": "Lin Yutang"
+  },
+  {
+    "quote": "Il n'y a personne qui soit né sous une mauvaise étoile, il n'y a que des gens qui ne savent pas lire le ciel.",
+    "author": "Dalaï Lama"
+  },
+  {
+    "quote": "Si vous pensez que vous êtes trop petit pour faire une différence, essayez de dormir avec un moustique.",
+    "author": "Dalaï Lama"
+  },
+  {
+    "quote": "Le vrai bonheur ne dépend d'aucun être, d'aucun objet extérieur. Il ne dépend que de nous.",
+    "author": "Dalaï Lama"
+  },
+  {
+    "quote": "La compassion et la tolérance ne sont pas un signe de faiblesse, mais un signe de force.",
+    "author": "Dalaï Lama"
+  },
+  {
+    "quote": "Un voyage de mille lieues commence toujours par un premier pas.",
+    "author": "Lao Tseu"
+  },
+  {
+    "quote": "Celui qui connaît les autres est instruit. Celui qui se connaît lui-même est sage.",
+    "author": "Lao Tseu"
+  },
+  {
+    "quote": "Le sage ne s'impose pas, il se propose.",
+    "author": "Lao Tseu"
+  },
+  {
+    "quote": "La nature ne fait rien en vain.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "Le bonheur, c'est le bien suprême.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas un acte mais une habitude.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "L'homme est par nature un animal social.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "C'est en forgeant qu'on devient forgeron.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "Il n'y a pas de génie sans un grain de folie.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "L'ignorant affirme, le savant doute, le sage réfléchit.",
+    "author": "Aristote"
+  },
+  {
+    "quote": "La philosophie est la science qui nous apprend à vivre.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "La vie heureuse est celle qui est en accord avec sa propre nature.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "Quelle misérable chose que l'homme s'il ne s'élève au-dessus de l'humanité.",
+    "author": "Sénèque"
+  },
+  {
+    "quote": "La difficulté n'est pas de comprendre les idées nouvelles, mais d'échapper aux idées anciennes.",
+    "author": "John Maynard Keynes"
+  },
+  {
+    "quote": "Les mots ont le pouvoir de détruire et de créer.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "La paix vient de l'intérieur. Ne la cherchez pas à l'extérieur.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "Tu ne seras pas puni pour ta colère, tu seras puni par ta colère.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "Trois choses ne peuvent être longtemps cachées : le soleil, la lune et la vérité.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "Nous sommes ce que nous pensons. Tout ce que nous sommes résulte de nos pensées.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "Celui qui vaincra mille hommes dans mille batailles n'est pas le plus grand des vainqueurs. Celui qui se vaincra lui-même le sera.",
+    "author": "Bouddha"
+  },
+  {
+    "quote": "Le sage ne dit pas ce qu'il sait, le sot ne sait pas ce qu'il dit.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Notre plus grande gloire n'est point de tomber, mais de savoir nous relever chaque fois que nous tombons.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "L'homme supérieur est celui qui d'abord met ses paroles en pratique, et ensuite parle conformément à ses actions.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Exige beaucoup de toi-même et attends peu des autres. Ainsi beaucoup d'ennuis te seront épargnés.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Celui qui déplace la montagne, c'est celui qui commence à enlever les petites pierres.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Le silence est un ami qui ne trahit jamais.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Quand on ne sait pas où l'on va, tous les chemins mènent nulle part.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "La vie est vraiment simple, mais nous insistons à la rendre compliquée.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Partout où vous allez, allez-y avec tout votre cœur.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Je ne cherche pas à connaître les réponses, je cherche à comprendre les questions.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "La musique est une révélation plus haute que toute sagesse et toute philosophie.",
+    "author": "Ludwig van Beethoven"
+  },
+  {
+    "quote": "La gloire d'un grand homme se doit toujours mesurer aux moyens dont il s'est servi pour l'acquérir.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "On n'est jamais si heureux ni si malheureux qu'on s'imagine.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "Nous avons tous assez de force pour supporter les maux d'autrui.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "Le soleil ni la mort ne se peuvent regarder fixement.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "L'absence diminue les médiocres passions et augmente les grandes, comme le vent éteint les bougies et allume le feu.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "Les philosophes ne sont qu'une espèce de fous qui se sont mis en tête de devenir sages.",
+    "author": "Montesquieu"
+  },
+  {
+    "quote": "Il est plus aisé de connaître l'homme en général que de connaître un homme en particulier.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "Un sot savant est sot plus qu'un sot ignorant.",
+    "author": "Molière"
+  },
+  {
+    "quote": "On est aisément dupé par ce qu'on aime.",
+    "author": "Molière"
+  },
+  {
+    "quote": "Le devoir d'un homme est de parler ; c'est aux dieux d'agir.",
+    "author": "Molière"
+  },
+  {
+    "quote": "Il faut manger pour vivre et non pas vivre pour manger.",
+    "author": "Molière"
+  },
+  {
+    "quote": "Les gens de qualité savent tout sans avoir jamais rien appris.",
+    "author": "Molière"
+  },
+  {
+    "quote": "Qui vit sans folie n'est pas si sage qu'il croit.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "quote": "La conscience est la voix de l'âme, les passions sont la voix du corps.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "quote": "Que ton aliment soit ton seul médicament.",
+    "author": "Hippocrate"
+  },
+  {
+    "quote": "Il y a dans le cœur humain une génération perpétuelle de passions, en sorte que la ruine de l'une est presque toujours l'établissement d'une autre.",
+    "author": "François de La Rochefoucauld"
+  },
+  {
+    "quote": "L'esprit de l'homme est plus pénétrant que conséquent, et embrasse plus qu'il ne peut lier.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "Nul n'est méchant volontairement.",
+    "author": "Socrate"
+  },
+  {
+    "quote": "Mieux vaut faire envie que pitié.",
+    "author": "Hérodote"
+  },
+  {
+    "quote": "Le commencement est la moitié de tout.",
+    "author": "Pythagore"
+  },
+  {
+    "quote": "Le nombre est le lien de l'éternelle permanence des choses.",
+    "author": "Pythagore"
+  },
+  {
+    "quote": "Aide-toi et le ciel t'aidera.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "Rien ne sert de courir, il faut partir à point.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "La raison du plus fort est toujours la meilleure.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "Tout flatteur vit aux dépens de celui qui l'écoute.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "On a souvent besoin d'un plus petit que soi.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "En toute chose il faut considérer la fin.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "La vie est une fleur dont l'amour est le miel.",
+    "author": "Victor Hugo"
+  },
+  {
+    "quote": "Aimer, c'est agir.",
+    "author": "Victor Hugo"
+  },
+  {
+    "quote": "La musique, c'est du bruit qui pense.",
+    "author": "Victor Hugo"
+  },
+  {
+    "quote": "Le premier signe de l'ignorance, c'est de présumer que l'on sait.",
+    "author": "Baltasar Gracián"
+  },
+  {
+    "quote": "Il n'y a rien de noble à être supérieur à quelqu'un d'autre. La vraie noblesse est d'être supérieur à celui que vous étiez auparavant.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "quote": "Le courage, c'est la grâce sous la pression.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "quote": "Vous pouvez détruire un homme, mais vous ne pouvez pas le vaincre.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "quote": "Il y a deux sortes de gens : ceux qui font le travail et ceux qui en prennent le crédit. Essayez d'être dans le premier groupe ; il y a moins de concurrence.",
+    "author": "Indira Gandhi"
+  },
+  {
+    "quote": "Le talent, c'est l'envie.",
+    "author": "Jules Renard"
+  },
+  {
+    "quote": "Avoir du talent, c'est avoir de la volonté.",
+    "author": "Honoré de Balzac"
+  },
+  {
+    "quote": "Derrière chaque homme de génie, il y a toujours un autre homme de génie qui le comprend.",
+    "author": "Honoré de Balzac"
+  },
+  {
+    "quote": "Le hasard, c'est le pseudonyme de Dieu quand il ne veut pas signer.",
+    "author": "Théophile Gautier"
+  },
+  {
+    "quote": "Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Penser, c'est réapprendre à voir.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "La vraie charité consiste à faire du bien à ceux qui nous font du mal.",
+    "author": "Léon Tolstoï"
+  },
+  {
+    "quote": "Tous pensent à changer le monde, mais personne ne pense à se changer soi-même.",
+    "author": "Léon Tolstoï"
+  },
+  {
+    "quote": "Les deux guerriers les plus puissants sont le temps et la patience.",
+    "author": "Léon Tolstoï"
+  },
+  {
+    "quote": "Le bonheur n'existe pas, il n'y a que des moments de bonheur.",
+    "author": "Proverbe espagnol"
+  },
+  {
+    "quote": "Le changement est la seule constante dans la vie.",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "quote": "Le talent atteint une cible que personne d'autre ne peut atteindre. Le génie atteint une cible que personne d'autre ne peut voir.",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "quote": "Les obstacles sont ces choses effrayantes que vous voyez quand vous détournez les yeux de votre but.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "L'échec est simplement l'opportunité de recommencer, cette fois de façon plus intelligente.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Que vous pensiez être capable ou ne pas être capable, dans les deux cas, vous avez raison.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Se réunir est un début, rester ensemble est un progrès, travailler ensemble est la réussite.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "La qualité signifie faire les choses correctement quand personne ne regarde.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Ne trouvez pas la faute, trouvez le remède.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "La meilleure façon de se venger, c'est de ne pas ressembler à celui qui vous a fait du mal.",
+    "author": "Marc Aurèle"
+  },
+  {
+    "quote": "Tu as en toi la force de surmonter toutes les difficultés.",
+    "author": "Marc Aurèle"
+  },
+  {
+    "quote": "La vie est opinion.",
+    "author": "Marc Aurèle"
+  },
+  {
+    "quote": "Ce qui trouble les hommes, ce ne sont pas les choses, mais les jugements qu'ils portent sur ces choses.",
+    "author": "Épictète"
+  },
+  {
+    "quote": "Il n'appartient qu'à toi d'être heureux.",
+    "author": "Épictète"
+  },
+  {
+    "quote": "Il y a des choses qui dépendent de nous et d'autres qui ne dépendent pas de nous.",
+    "author": "Épictète"
+  },
+  {
+    "quote": "La liberté n'est pas l'absence d'engagements, mais la capacité de choisir.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "Quand on veut quelque chose, tout l'univers conspire à nous permettre de réaliser notre rêve.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "Le secret du bonheur, c'est de voir toutes les merveilles du monde sans jamais oublier les deux gouttes d'huile dans la cuillère.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "C'est en prenant des risques que nous apprenons le courage.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "Un jour, vous serez au sommet de la montagne, et vous vous souviendrez de chaque étape que vous avez faite.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "L'amour ne se regarde pas l'un l'autre, mais regarde ensemble dans la même direction.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "On ne voit jamais l'arc-en-ciel en regardant en bas.",
+    "author": "Charlie Chaplin"
+  },
+  {
+    "quote": "Un jour sans rire est un jour perdu.",
+    "author": "Charlie Chaplin"
+  },
+  {
+    "quote": "La vie est une tragédie en gros plan, mais une comédie en plan d'ensemble.",
+    "author": "Charlie Chaplin"
+  },
+  {
+    "quote": "Vous n'aurez jamais une seconde chance de faire une première bonne impression.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "La vie est trop importante pour être prise au sérieux.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Nous sommes tous dans le caniveau, mais certains d'entre nous regardent les étoiles.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Il n'y a que deux tragédies dans la vie : l'une est de ne pas obtenir ce que l'on veut, l'autre est de l'obtenir.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "L'expérience est le nom que chacun donne à ses erreurs.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Il faut toujours pardonner à ses ennemis. Rien ne les agace davantage.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Vivre est la chose la plus rare au monde. La plupart des gens existent, c'est tout.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Les vrais paradis sont les paradis qu'on a perdus.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Le temps qui change les êtres ne modifie pas l'image que nous avons gardée d'eux.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Si vous voulez que la vie vous sourie, apportez-lui d'abord votre bonne humeur.",
+    "author": "Baruch Spinoza"
+  },
+  {
+    "quote": "Toute chose excellente est aussi difficile que rare.",
+    "author": "Baruch Spinoza"
+  },
+  {
+    "quote": "La paix n'est pas l'absence de guerre, c'est une vertu, un état d'esprit, une volonté de bienveillance, de confiance, de justice.",
+    "author": "Baruch Spinoza"
+  },
+  {
+    "quote": "N'essayez pas de devenir un homme qui a du succès. Essayez de devenir un homme qui a de la valeur.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Je n'ai pas échoué. J'ai simplement trouvé 10 000 solutions qui ne fonctionnent pas.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Notre plus grande faiblesse est d'abandonner. La façon la plus sûre de réussir est toujours d'essayer une fois de plus.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Le génie est fait de 1% d'inspiration et de 99% de transpiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Beaucoup d'échecs dans la vie sont des personnes qui n'ont pas réalisé à quel point elles étaient proches du succès lorsqu'elles ont abandonné.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Si nous faisions toutes les choses dont nous sommes capables, nous nous étonnerions nous-mêmes.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Les grandes pensées parlent à l'esprit, les grandes actions parlent au cœur.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Un pessimiste voit la difficulté dans chaque opportunité, un optimiste voit l'opportunité dans chaque difficulté.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Le courage, c'est ce qu'il faut pour se lever et parler. Le courage, c'est aussi ce qu'il faut pour s'asseoir et écouter.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Vous ne pouvez jamais franchir l'océan si vous n'avez pas le courage de perdre de vue le rivage.",
+    "author": "Christophe Colomb"
+  },
+  {
+    "quote": "L'attitude est une petite chose qui fait une grande différence.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "L'homme qui déplace une montagne commence par déplacer de petites pierres.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Vous ne pouvez pas créer de l'expérience. Vous devez la subir.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "Les apparences sont trompeuses.",
+    "author": "Ésope"
+  },
+  {
+    "quote": "À l'impossible nul n'est tenu.",
+    "author": "Proverbe latin"
+  },
+  {
+    "quote": "Errare humanum est, perseverare diabolicum.",
+    "author": "Proverbe latin"
+  },
+  {
+    "quote": "La fortune sourit aux audacieux.",
+    "author": "Virgile"
+  },
+  {
+    "quote": "L'amour triomphe de tout.",
+    "author": "Virgile"
+  },
+  {
+    "quote": "Hâte-toi lentement.",
+    "author": "Auguste"
+  },
+  {
+    "quote": "Les paroles s'envolent, les écrits restent.",
+    "author": "Proverbe latin"
+  },
+  {
+    "quote": "L'union fait la force.",
+    "author": "Ésope"
+  },
+  {
+    "quote": "Un esprit sain dans un corps sain.",
+    "author": "Juvénal"
+  },
+  {
+    "quote": "Le temps guérit toutes les blessures.",
+    "author": "Proverbe"
+  },
+  {
+    "quote": "Le rire est le propre de l'homme.",
+    "author": "Rabelais"
+  },
+  {
+    "quote": "Science sans conscience n'est que ruine de l'âme.",
+    "author": "Rabelais"
+  },
+  {
+    "quote": "L'appétit vient en mangeant.",
+    "author": "Rabelais"
+  },
+  {
+    "quote": "Rien de grand ne s'est accompli dans le monde sans passion.",
+    "author": "Georg Wilhelm Friedrich Hegel"
+  },
+  {
+    "quote": "La vérité est toujours révolutionnaire.",
+    "author": "Antonio Gramsci"
+  },
+  {
+    "quote": "Le doute est le sel de l'esprit.",
+    "author": "Alain"
+  },
+  {
+    "quote": "On ne badine pas avec l'amour.",
+    "author": "Alfred de Musset"
+  },
+  {
+    "quote": "L'art, c'est le plus court chemin de l'homme à l'homme.",
+    "author": "André Malraux"
+  },
+  {
+    "quote": "La culture, c'est ce qui reste quand on a tout oublié.",
+    "author": "Édouard Herriot"
+  },
+  {
+    "quote": "Le style est l'homme même.",
+    "author": "Buffon"
+  },
+  {
+    "quote": "Un grand pouvoir implique de grandes responsabilités.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "L'optimisme est une forme de courage qui donne confiance aux autres et mène au succès.",
+    "author": "Baden-Powell"
+  },
+  {
+    "quote": "Le succès, c'est tomber sept fois et se relever huit.",
+    "author": "Proverbe japonais"
+  },
+  {
+    "quote": "Chaque difficulté porte en elle la semence d'un avantage équivalent ou supérieur.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "Ce que l'esprit de l'homme peut concevoir et croire, il peut le réaliser.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "quote": "Le rêve est la réalisation déguisée d'un désir refoulé.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "Un acte manqué est un acte réussi.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "La voix de l'intellect est basse, mais elle ne se repose pas avant d'avoir été entendue.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "Être totalement honnête avec soi-même est un bon exercice.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "L'inconscient ne connaît pas la contradiction.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "L'amour et le travail sont les pierres angulaires de notre humanité.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "La seule personne que vous êtes destiné à devenir est la personne que vous décidez d'être.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Fais ce que tu peux, avec ce que tu as, là où tu es.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Croyez que vous pouvez le faire et vous êtes déjà à mi-chemin.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Personne ne se soucie de savoir combien vous savez, jusqu'à ce qu'ils sachent combien vous vous souciez.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Parlez doucement et portez un gros bâton, vous irez loin.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Ce n'est pas le critique qui compte ; ce n'est pas l'homme qui montre comment l'homme fort trébuche. Le crédit appartient à l'homme qui est réellement dans l'arène.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "L'échec est l'opportunité de recommencer plus intelligemment.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Je suis le maître de mon destin, je suis le capitaine de mon âme.",
+    "author": "William Ernest Henley"
+  },
+  {
+    "quote": "Le bonheur n'est pas une destination à atteindre, mais une manière de voyager.",
+    "author": "Margaret Lee Runbeck"
+  },
+  {
+    "quote": "Soyez le héros de votre vie, pas la victime.",
+    "author": "Nora Ephron"
+  },
+  {
+    "quote": "Nous devons être le changement que nous voulons voir dans le monde.",
+    "author": "Gandhi"
+  },
+  {
+    "quote": "Un homme qui ose perdre une heure de son temps n'a pas découvert la valeur de la vie.",
+    "author": "Charles Darwin"
+  },
+  {
+    "quote": "Ce n'est pas l'espèce la plus forte qui survit, ni la plus intelligente, mais celle qui est la plus apte à s'adapter au changement.",
+    "author": "Charles Darwin"
+  },
+  {
+    "quote": "L'ignorance engendre plus fréquemment la confiance que ne le fait la connaissance.",
+    "author": "Charles Darwin"
+  },
+  {
+    "quote": "Un mathématicien est une machine à transformer le café en théorèmes.",
+    "author": "Paul Erdős"
+  },
+  {
+    "quote": "Les mathématiques sont la poésie des idées logiques.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "En mathématiques, on ne comprend pas les choses, on s'y habitue.",
+    "author": "John von Neumann"
+  },
+  {
+    "quote": "La meilleure arme contre le stress est notre capacité à choisir une pensée plutôt qu'une autre.",
+    "author": "William James"
+  },
+  {
+    "quote": "Agissez comme s'il était impossible d'échouer.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Il ne faut jamais remettre à demain ce qu'on peut faire après-demain.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Les deux jours les plus importants de votre vie sont le jour où vous êtes né et le jour où vous découvrez pourquoi.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Dans vingt ans, vous serez plus déçu par les choses que vous n'avez pas faites que par celles que vous avez faites.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Le secret pour avancer est de commencer.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "La bonté est le langage qu'un sourd peut entendre et qu'un aveugle peut voir.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "L'homme qui ne lit pas de bons livres n'a aucun avantage sur l'homme qui ne peut pas lire.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Une personne qui n'a jamais commis d'erreurs n'a jamais tenté d'innover.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Chaque enfant est un artiste. Le problème, c'est de rester un artiste en grandissant.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "L'action est la clé fondamentale de tout succès.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "J'ai mis toute ma vie à savoir dessiner comme un enfant.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "L'inspiration existe, mais elle doit vous trouver au travail.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Tout ce que vous pouvez imaginer est réel.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Les ordinateurs sont inutiles. Ils ne savent que donner des réponses.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Apprenez les règles comme un professionnel, afin de pouvoir les briser comme un artiste.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "L'art lave notre âme de la poussière du quotidien.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Le sens de la vie, c'est de trouver votre don. Le but de la vie, c'est de le donner.",
+    "author": "Pablo Picasso"
+  }
+]
